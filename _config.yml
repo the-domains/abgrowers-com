@@ -1,0 +1,28 @@
+name: abgrowers.com
+favicon: null
+layout_spectrum: 0.49354187748394907
+typography_spectrum: 0.4182550380937755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6994069293141365
+  lightness: 0.2867179031018168
+  saturation: 0.2952106068842113
+  rhythmicContrast: 0.2062059671152383
+purpose: []
